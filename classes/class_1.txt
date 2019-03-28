@@ -1,0 +1,11 @@
+Table
+
+Attributes
+  - Chairs at table (array)
+  - Booth (boolean)
+  - High chair accessible (boolean)
+
+Methods
+  - Number of people currently seated (Number of seats total - number of seats empty)
+  - Number of plates the table can hold ((Length X width) - (number of plates * size of plates))
+  - Add chair (add chair to chair array)  
