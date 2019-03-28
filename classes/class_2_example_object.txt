@@ -9,3 +9,5 @@ Methods
 - Add more food ["Steak", "Mashed Potatoes", "Carrots", "Peas"]
 - Empty plate: True
 - Determine if food item can fit: True
+
+*
