@@ -9,3 +9,5 @@ Methods
 - Add more food (Add more food to food array)
 - Empty plate (Is current volume zero - return true)
 - Determine if food item can fit (Circumference - size of current food item; if positive number, return true)
+
+*
