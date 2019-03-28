@@ -1,0 +1,11 @@
+Plate
+
+Attributes
+- Circumference: 6
+- Shape: Round
+- Food items: ["Steak", "Mashed Potatoes", "Carrots"]
+
+Methods
+- Add more food ["Steak", "Mashed Potatoes", "Carrots", "Peas"]
+- Empty plate: True
+- Determine if food item can fit: True
