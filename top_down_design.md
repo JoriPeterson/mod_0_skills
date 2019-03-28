@@ -1,0 +1,28 @@
+How to get food at a restaurant
+- Choose restaurant
+  - Pick neighborhood
+    - Walk to something nearby
+  - Pick price range
+    - Under $20 range
+  - Pick food type
+    - Sandwiches
+      - Veggie and meat options
+      - Soup and salad side options
+  - Consider dining companions
+    - Ask friends to join
+- Look at menu
+  - Decide on quantity of food desired
+  - Decide on exact amount of money you want to spend
+  - Decide on ingredients in food that you are craving
+- Order from waitress
+  - Tell waitress what you would like
+    - Answer questions about allergies
+      - Ask if there is something you are allergic to in sauce
+    - Answer questions about how you would like something prepared
+- Pay check
+  - Look at bill
+    - Determine price is accurate
+  - Decide among friends your portion
+    - Calculate your items plus tax
+  - Calculate tip
+    - Determine tip percentage based on experience
