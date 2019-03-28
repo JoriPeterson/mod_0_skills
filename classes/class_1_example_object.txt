@@ -1,0 +1,10 @@
+Table
+
+Values
+  - Chairs at table: ("Chair 1", "Chair 2", "Chair 3", "Chair 4")
+  - Booth: False
+  - High chair accessible: True
+
+  - Currently seated: 2
+  - Number of plates table can hold: 7
+  - Add chair ("Chair 1", "Chair 2", "Chair 3", "Chair 4", "Chair 5")
