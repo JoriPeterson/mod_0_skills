@@ -1,0 +1,11 @@
+Plate
+
+Attributes
+- Circumference (integer)
+- Shape (string)
+- Food items (array)
+
+Methods
+- Add more food (Add more food to food array)
+- Empty plate (Current volume - current volume)
+- Determine if food item can fit (Circumference - size of current food item) 
