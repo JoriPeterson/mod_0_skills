@@ -26,3 +26,4 @@ How to get food at a restaurant
     - Calculate your items plus tax
   - Calculate tip
     - Determine tip percentage based on experience
+    - Write in tip and total check
